@@ -139,6 +139,16 @@ The dataset is generated with a fixed random seed, so the project is fully repro
 
 This project identifies associations, not causal effects. For example, preventive work orders cost less on average in the synthetic data, but a controlled before-and-after study would be needed to estimate the savings caused by a new preventive-maintenance program.
 
+## January 2027 Development Roadmap
+
+I am extending this repository into a complete Operations Business Intelligence portfolio project. The next major deliverable is an independently built and validated Power BI dashboard.
+
+- [January 2027 Operations BI roadmap](docs/JANUARY_2027_ROADMAP.md)
+- [Technical readiness checklist](docs/TECHNICAL_READINESS_CHECKLIST.md)
+- [Networking and application system](docs/NETWORKING_AND_APPLICATION_SYSTEM.md)
+- [Power BI dashboard plan](powerbi/README.md)
+- [Interview guide](INTERVIEW_GUIDE.md)
+
 ## Author
 
 **Melvin “Joseph” Cuffee**  
