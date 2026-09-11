@@ -1,0 +1,8 @@
+metric,value,format
+Total work orders,1200.0,count
+Total maintenance cost,194237.22,currency
+Average response time,68.49083333333333,minutes
+SLA compliance rate,0.9,percentage
+Repeat repair rate,0.1075,percentage
+Average downtime,2.648825,hours
+Guest-impacting work orders,0.41,percentage
